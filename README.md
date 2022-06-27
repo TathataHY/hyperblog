@@ -10,3 +10,4 @@ En este curso vemos de todo:
 * Trucos muy locos del profesor
 * Creado por el increíble Platzi Team
 * Incluye ejemplos en Windows, Linux y Mac
+* Disponible para todas las edades
